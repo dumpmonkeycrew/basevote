@@ -1,12 +1,12 @@
-# EduVote
+# BaseVote
 ![Logo](logo.png)
-BaseVote is an education-themed Web3 voting application designed to facilitate secure, transparent, and tamper-proof voting for school and college elections. Leveraging blockchain technology, EduVote ensures that every vote is immutably recorded, fostering trust in student governance and promoting democratic participation.
+BaseVote is an education-themed Web3 voting application designed to facilitate secure, transparent, and tamper-proof voting for school and college elections. Leveraging blockchain technology, BaseVote ensures that every vote is immutably recorded, fostering trust in student governance and promoting democratic participation.
 
 ## Features
 
 - **Secure Voting**: All votes are recorded on the blockchain, ensuring transparency and security.
 - **Immutable Records**: Blockchain technology guarantees that votes cannot be tampered with or altered.
-- **Educational Focus**: EduVote teaches students the importance of voting and civic engagement in a modern, digital world.
+- **Educational Focus**: BaseVote teaches students the importance of voting and civic engagement in a modern, digital world.
 
 ## Installation
 
@@ -92,7 +92,7 @@ After starting the application, you can access the BaseVote Dapp through your br
 
 ## Contributing
 
-Contributions are welcome! If you'd like to contribute to EduVote, please fork the repository and submit a pull request. For major changes, please open an issue to discuss your ideas.
+Contributions are welcome! If you'd like to contribute to BaseVote, please fork the repository and submit a pull request. For major changes, please open an issue to discuss your ideas.
 
 ## License
 

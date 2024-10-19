@@ -5,6 +5,9 @@
   justify-content: center;
   height: 100vh;
   background-color: rgb(54, 144, 255);
+   background-image: url('./2.png');
+  background-size: cover;
+  background-position: center;
 }
 
 .welcome-message {
@@ -14,6 +17,7 @@
 }
 
 .login-button {
+  
   background-color: #007bff;
   color: #fff;
   font-size: 1.2rem;
@@ -25,7 +29,8 @@
 }
 
 .login-button:hover {
-  background-color: #0069d9;
+  background-color: #0069d9; 
+ 
 }
 
 
@@ -36,6 +41,9 @@
   justify-content: center;
   height: 100vh;
   background-color: #f1f1f1;
+   background-image: url('./4.png');
+  background-size: cover;
+  background-position: center;
 }
 
 .connected-header {
